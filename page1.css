@@ -12,8 +12,8 @@
 }
 .container{
     background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg);
-    width: auto;
-    height: auto;
+    width: 700px;
+    height: 250px;
     background-color: rgb(134, 255, 91);
     box-shadow: 5px  10px 5px 7px blue,inset 0px 5px 3px blue;
     padding: 50px;
