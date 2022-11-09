@@ -3,8 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg);
-}
+    backgrond-color:black;
 body{
     color: rgb(0, 255, 42);
     background-color: white;
